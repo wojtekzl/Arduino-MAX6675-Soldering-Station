@@ -3,6 +3,8 @@
 [English version below](#english-version) | [Przejdź do wersji polskiej](#polska-wersja)
 
 ---
+![Main Photo](Media/front_with_soldering_iron.jpg)
+---
 
 <a name="polska-wersja"></a>
 ## Polska Wersja
