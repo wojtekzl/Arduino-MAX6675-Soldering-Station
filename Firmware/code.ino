@@ -146,7 +146,7 @@ void applyPower(unsigned long now) {
         digitalWrite(PWM_pin, LOW);
     }
 }
-
+ 
 void handleButton(unsigned long now) {
     bool reading = digitalRead(modeButtonPin);
     if (reading != lastButtonReading) lastDebounceTime = now;
