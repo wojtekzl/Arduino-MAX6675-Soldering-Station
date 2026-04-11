@@ -36,6 +36,9 @@ W mojej wersji wprowadziłem następujące zmiany i usprawnienia:
 3. Projektowanie od podstaw obudowy 3D razem z ergonomiczną podpórką.
 4. Usunięcie zbędnych linijek kodu.
 
+### UWAGA
+Projekt dotyczy urządzeń pracujących z wysoką temperaturą oraz napięciem sieciowym. Nie ponoszę odpowiedzialności za jakiekolwiek szkody materialne, uszczerbek na zdrowiu lub inne straty powstałe w wyniku budowy lub użytkowania tego urządzenia. Wszystko robisz na własną odpowiedzialność. Pamiętaj o zachowaniu zasad BHP!
+
 ---
 
 <a name="english-version"></a>
@@ -67,6 +70,9 @@ In my version, I have introduced the following improvements:
 2. Added digital filtering (EMA) for the potentiometer input signal.
 3. From-scratch 3D design of the enclosure, including an ergonomic iron stand.
 4. Removed unnecessary lines of code for better optimization.
+
+### DISCLAIMER
+This project involves high temperatures and mains voltage. I am not responsible for any property damage, personal injury, or other losses resulting from the construction or use of this device. You build and use it at your own risk. Always follow safety guidelines!
 
 ---
 
